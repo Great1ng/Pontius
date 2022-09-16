@@ -1,0 +1,10 @@
+[package]
+name = "pontius"
+version = "0.1.0"
+edition = "2021"
+readme = "README.md"
+repository = "https://github.com/Great1ng/Pontius.git"
+
+[dependencies]
+
+[dev-dependencies]
